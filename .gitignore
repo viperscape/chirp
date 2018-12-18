@@ -1,0 +1,9 @@
+Debug
+x64
+packages
+.vs
+
+# download from https://github.com/syoyo/tinygltf
+json.hpp
+tiny_gltf.h
+stb_image*.h
